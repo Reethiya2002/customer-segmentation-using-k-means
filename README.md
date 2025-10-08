@@ -19,8 +19,9 @@ To group customers into meaningful segments to understand purchasing behavior.
 4. Finding optimal clusters using Elbow Method  
 5. Building an interactive Streamlit dashboard  
 
-### 📸 Output
-![Dashboard link](https://customer-segmentation-using-k-means-4usxjsgrkmbcvhriamvuzh.streamlit.app/)
+### 🌐 Live Demo
+Check out the interactive dashboard here:  
+[Customer Segmentation Streamlit App](https://customer-segmentation-using-k-means-4usxjsgrkmbcvhriamvuzh.streamlit.app/)
 
 ### ▶️ How to Run
 ```bash
