@@ -20,7 +20,7 @@ To group customers into meaningful segments to understand purchasing behavior.
 5. Building an interactive Streamlit dashboard  
 
 ### 📸 Output
-![Dashboard link](http://localhost:8501/)
+![Dashboard link](https://customer-segmentation-using-k-means-4usxjsgrkmbcvhriamvuzh.streamlit.app/)
 
 ### ▶️ How to Run
 ```bash
